@@ -7,4 +7,4 @@ I graduated in Management Information Systems from Pamukkale University and spen
 
 ## Languages and tools
 
-[![Tools](https://skillicons.dev/icons?i=cs,unity,react,js,html,css,tailwind,supabase,python)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=cs,unity,react,js,html,css,supabase,python)](https://skillicons.dev)
